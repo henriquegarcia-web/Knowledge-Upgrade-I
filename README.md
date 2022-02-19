@@ -34,12 +34,12 @@ React Context API para INICIANTES - **[ 20min ]** - <a href="https://www.youtube
 **[ Em espera ]** - Como usar React Context (com Hooks) - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=FsCBw9X9U84" target="_blank">Ver vídeo</a></br>
 **[ Em espera ]** - Gerenciando estados globais com React Context - **[ 30min ]** - <a href="https://www.youtube.com/watch?v=D_yxtCD_Vi0" target="_blank">Ver vídeo</a></br>
 Como fazer Hooks Personalizados - **[ 16min ]** - <a href="https://www.youtube.com/watch?v=2cTAR3EkvQ8" target="_blank">Ver vídeo</a></br>
-**[ Em espera ]** - Criando Formulários no ReactJS - React Hook Form - **[ 15min ]** - <a href="https://www.youtube.com/watch?v=1bluATWw4S4" target="_blank">Ver vídeo</a></br>
-**[ Em espera ]** - 5 Custom React Hooks You Need In Every Project - **[ 10min ]** - <a href="https://www.youtube.com/watch?v=0c6znExIqRw" target="_blank">Ver vídeo</a></br>
+Criando Formulários no ReactJS - React Hook Form - **[ 15min ]** - <a href="https://www.youtube.com/watch?v=1bluATWw4S4" target="_blank">Ver vídeo</a></br>
+5 Custom React Hooks You Need In Every Project - **[ 10min ]** - <a href="https://www.youtube.com/watch?v=0c6znExIqRw" target="_blank">Ver vídeo</a></br>
 **[ Concluído ]** - React Hooks Course - All React Hooks Explained - **[ 1h 30min ]** - <a href="https://www.youtube.com/watch?v=LlvBzyy-558&t" target="_blank">Ver vídeo</a></br>
 **[ Concluído ]** - Don't use Hooks in REACT without knowing this... - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=NZEUDJvpQMM" target="_blank">Ver vídeo</a></br>
 **[ Em espera ]** - Você sabe MESMO como usar o hook useEffect? - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=ndwM9djDRLg" target="_blank">Ver vídeo</a></br>
-**[ Em espera ] - Dicas avançadas de performance para React JS (useCallback) - **[ 10min ]** - <a href="https://www.youtube.com/watch?v=MPoVCO5na3Q" target="_blank">Ver vídeo</a></br>
+**[ Em espera ]** - Dicas avançadas de performance para React JS (useCallback) - **[ 10min ]** - <a href="https://www.youtube.com/watch?v=MPoVCO5na3Q" target="_blank">Ver vídeo</a></br>
 
 #### 3. React - Typescript
 
