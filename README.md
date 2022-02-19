@@ -29,33 +29,33 @@ Class Components vs Functional Components in React - **[ 15min ]** - <a href="ht
 
 #### 2. React - Hooks
 
-Compilação de 9 vídeos sobre Hooks - **[ 2h 10min ]** - <a href="https://www.youtube.com/watch?v=iO60sUu7KIA&list=PL-wbozzhFnqrJPUFxUlp5gpLfjxWvtNvu" target="_blank">Ver vídeo</a></br>
+[Em progresso] - Compilação de 9 vídeos sobre Hooks - **[ 2h 10min ]** - <a href="https://www.youtube.com/watch?v=iO60sUu7KIA&list=PL-wbozzhFnqrJPUFxUlp5gpLfjxWvtNvu" target="_blank">Ver vídeo</a></br>
 React Context API para INICIANTES - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=H6bCSzxxiNc" target="_blank">Ver vídeo</a></br>
-Como usar React Context (com Hooks) - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=FsCBw9X9U84" target="_blank">Ver vídeo</a></br>
-Gerenciando estados globais com React Context - **[ 30min ]** - <a href="https://www.youtube.com/watch?v=D_yxtCD_Vi0" target="_blank">Ver vídeo</a></br>
+[Em espera] - Como usar React Context (com Hooks) - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=FsCBw9X9U84" target="_blank">Ver vídeo</a></br>
+[Em espera] - Gerenciando estados globais com React Context - **[ 30min ]** - <a href="https://www.youtube.com/watch?v=D_yxtCD_Vi0" target="_blank">Ver vídeo</a></br>
 Como fazer Hooks Personalizados - **[ 16min ]** - <a href="https://www.youtube.com/watch?v=2cTAR3EkvQ8" target="_blank">Ver vídeo</a></br>
-Criando Formulários no ReactJS - React Hook Form - **[ 15min ]** - <a href="https://www.youtube.com/watch?v=1bluATWw4S4" target="_blank">Ver vídeo</a></br>
-5 Custom React Hooks You Need In Every Project - **[ 10min ]** - <a href="https://www.youtube.com/watch?v=0c6znExIqRw" target="_blank">Ver vídeo</a></br>
-React Hooks Course - All React Hooks Explained - **[ 1h 30min ]** - <a href="https://www.youtube.com/watch?v=LlvBzyy-558&t" target="_blank">Ver vídeo</a></br>
-Don't use Hooks in REACT without knowing this... - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=NZEUDJvpQMM" target="_blank">Ver vídeo</a></br>
-Você sabe MESMO como usar o hook useEffect? - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=ndwM9djDRLg" target="_blank">Ver vídeo</a></br>
-Dicas avançadas de performance para React JS (useCallback) - **[ 10min ]** - <a href="https://www.youtube.com/watch?v=MPoVCO5na3Q" target="_blank">Ver vídeo</a></br>
+[Em espera] - Criando Formulários no ReactJS - React Hook Form - **[ 15min ]** - <a href="https://www.youtube.com/watch?v=1bluATWw4S4" target="_blank">Ver vídeo</a></br>
+[Em espera] - 5 Custom React Hooks You Need In Every Project - **[ 10min ]** - <a href="https://www.youtube.com/watch?v=0c6znExIqRw" target="_blank">Ver vídeo</a></br>
+[Concluído] - React Hooks Course - All React Hooks Explained - **[ 1h 30min ]** - <a href="https://www.youtube.com/watch?v=LlvBzyy-558&t" target="_blank">Ver vídeo</a></br>
+[Concluído] - Don't use Hooks in REACT without knowing this... - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=NZEUDJvpQMM" target="_blank">Ver vídeo</a></br>
+[Em espera] - Você sabe MESMO como usar o hook useEffect? - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=ndwM9djDRLg" target="_blank">Ver vídeo</a></br>
+[Em espera] - Dicas avançadas de performance para React JS (useCallback) - **[ 10min ]** - <a href="https://www.youtube.com/watch?v=MPoVCO5na3Q" target="_blank">Ver vídeo</a></br>
 
 #### 3. React - Typescript
 
-Gerenciando Context no React com TypeScript! - **[ 30min ]** - <a href="https://www.youtube.com/watch?v=fPR-Z56BDyg&list=PL8YNlUoOZkkaAQmEGrom_INJeKmBctzZr&index=8" target="_blank">Ver vídeo</a></br>
-TypeScript no React de forma prática! - **[ 35min ]** - <a href="https://www.youtube.com/watch?v=f_POW6biQDk&list=PL8YNlUoOZkkaAQmEGrom_INJeKmBctzZr&index=5" target="_blank">Ver vídeo</a></br>
-Curso de react: Aula 03 - Estrutura de pastas - **[ 25min ]** - <a href="https://www.youtube.com/watch?v=-3Cff7gND-Y" target="_blank">Ver vídeo</a></br>
-React Hooks com TypeScript | Masterclass #04 - **[ 50min ]** - <a href="https://www.youtube.com/watch?v=GOB-lawExXc" target="_blank">Ver vídeo</a></br>
-React & Typescript - Gerenciamento de Rotas e Navegação - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=rHhxgNiDwwo&list=PLZc3CthjTAlQBs5ADpkaJH_R6ojRcHyxX" target="_blank">Ver vídeo</a></br>
+[Em espera] - Gerenciando Context no React com TypeScript! - **[ 30min ]** - <a href="https://www.youtube.com/watch?v=fPR-Z56BDyg&list=PL8YNlUoOZkkaAQmEGrom_INJeKmBctzZr&index=8" target="_blank">Ver vídeo</a></br>
+[Em espera] - TypeScript no React de forma prática! - **[ 35min ]** - <a href="https://www.youtube.com/watch?v=f_POW6biQDk&list=PL8YNlUoOZkkaAQmEGrom_INJeKmBctzZr&index=5" target="_blank">Ver vídeo</a></br>
+[Em espera] - Curso de react: Aula 03 - Estrutura de pastas - **[ 25min ]** - <a href="https://www.youtube.com/watch?v=-3Cff7gND-Y" target="_blank">Ver vídeo</a></br>
+[Em espera] - React Hooks com TypeScript | Masterclass #04 - **[ 50min ]** - <a href="https://www.youtube.com/watch?v=GOB-lawExXc" target="_blank">Ver vídeo</a></br>
+[Em espera] - React & Typescript - Gerenciamento de Rotas e Navegação - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=rHhxgNiDwwo&list=PLZc3CthjTAlQBs5ADpkaJH_R6ojRcHyxX" target="_blank">Ver vídeo</a></br>
 React with TypeScript Crash Course - **[ 1h 10min ]** - <a href="https://www.youtube.com/watch?v=jrKcJxF0lAU" target="_blank">Ver vídeo</a></br>
-Construindo uma aplicação React em Typescript - **[ 15min ]** - <a href="https://www.youtube.com/watch?v=OfVdjIkFeF8" target="_blank">Ver vídeo</a></br>
-Typescript for React Components From Beginners to Masters - **[ 30min ]** - <a href="https://www.youtube.com/watch?v=z8lDwLKthr8" target="_blank">Ver vídeo</a></br>
+[Em espera] - Construindo uma aplicação React em Typescript - **[ 15min ]** - <a href="https://www.youtube.com/watch?v=OfVdjIkFeF8" target="_blank">Ver vídeo</a></br>
+[Em espera] - Typescript for React Components From Beginners to Masters - **[ 30min ]** - <a href="https://www.youtube.com/watch?v=z8lDwLKthr8" target="_blank">Ver vídeo</a></br>
 
 #### 4. React - Performance | Boas práticas
 
 Boas práticas em projetos com React - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=KdP-Ql-obMA&t=1s" target="_blank">Ver vídeo</a></br>
-Guia definitivo de performance (useMemo, useCallback, memo) - Code/drops #82 - **[ 1h ]** - <a href="https://www.youtube.com/watch?v=NmU2nNehNNY" target="_blank">Ver vídeo</a></br>
+[Em espera] - Guia definitivo de performance (useMemo, useCallback, memo) - Code/drops #82 - **[ 1h ]** - <a href="https://www.youtube.com/watch?v=NmU2nNehNNY" target="_blank">Ver vídeo</a></br>
 Advanced React. Performance Tips And Tricks Every React Developer Should Know! - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=sc5EsyjOLj8" target="_blank">Ver vídeo</a></br>
 
 #### 5. React - Redux
