@@ -114,3 +114,12 @@ Os hooks permitem centralizar e compartilhar a lógica de estados
 
 - Retorna valores memorizados de uma função, evitando a mesma de ser executada mais de uma vez, caso não seja necessário (não haja alterações do resultado)
 - Com o useMemo é possível isolar uma função, e de acordo com seu parâmetro, ser chamada novamente somente quando ele mudar/ser alterado
+
+<!-- ----------------------------------------------------------------------------------- -->
+</br>
+
+#### Vídeo 4
+
+> Título: Como usar React Context (com Hooks) | Guilherme Rodz </br>
+> Link: [Ver vídeo](https://www.youtube.com/watch?v=FsCBw9X9U84)
+
