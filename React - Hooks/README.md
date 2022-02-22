@@ -1,13 +1,12 @@
 ### Anotações | React Hooks
 
 <!-- ----------------------------------------------------------------------------------- -->
+<hr/>
 
 #### Vídeo 1
 
 > Título: Don't use Hooks in REACT without knowing this.. </br>
-> Link: [Ver vídeo](https://www.youtube.com/watch?v=NZEUDJvpQMM)
-
-</br>
+> Link: [Ver vídeo (Ctrl + Click)](https://www.youtube.com/watch?v=NZEUDJvpQMM)
 
 ##### Regras dos Hooks
 
@@ -25,12 +24,12 @@ Apenas chame Hooks (useState & useEffect) no nível superior
 > yarn add eslint-plugin-react-hooks
 
 <!-- ----------------------------------------------------------------------------------- -->
-</br>
+<hr/>
 
 #### Vídeo 2
 
 > Título: React Hooks Course - All React Hooks Explained </br>
-> Link: [Ver vídeo](https://www.youtube.com/watch?v=LlvBzyy-558&t)
+> Link: [Ver vídeo (Ctrl + Click)](https://www.youtube.com/watch?v=LlvBzyy-558&t)
 
 ##### useState
 
@@ -78,12 +77,12 @@ Apenas chame Hooks (useState & useEffect) no nível superior
 - Como descrito acima, ao armazenar uma função, é possível executá-la, de forma mais performática
 
 <!-- ----------------------------------------------------------------------------------- -->
-</br>
+<hr/>
 
 #### Vídeo 3
 
 > Título: React Hooks - Aprenda do Zero - 9 vídeos  </br>
-> Link: [Ver playlist](https://www.youtube.com/watch?v=iO60sUu7KIA&list=PL-wbozzhFnqrJPUFxUlp5gpLfjxWvtNvu)
+> Link: [Ver playlist (Ctrl + Click)](https://www.youtube.com/watch?v=iO60sUu7KIA&list=PL-wbozzhFnqrJPUFxUlp5gpLfjxWvtNvu)
 
 Os hooks evitam que ocorra o **Wrapper Hell**: componentes que precisam estar dentro de outros componentes que por sua vez dentro de outros componentes (...)
 
@@ -116,28 +115,28 @@ Os hooks permitem centralizar e compartilhar a lógica de estados
 - Com o useMemo é possível isolar uma função, e de acordo com seu parâmetro, ser chamada novamente somente quando ele mudar/ser alterado
 
 <!-- ----------------------------------------------------------------------------------- -->
-</br>
+<hr/>
 
 #### Vídeo 4
 
 > Título: Como usar React Context (com Hooks) | Guilherme Rodz </br>
-> Link: [Ver vídeo](https://www.youtube.com/watch?v=FsCBw9X9U84)
+> Link: [Ver vídeo (Ctrl + Click)](https://www.youtube.com/watch?v=FsCBw9X9U84)
 
 <!-- ----------------------------------------------------------------------------------- -->
-</br>
+<hr/>
 
 #### Vídeo 5
 
 > Título: Gerenciando estados globais com React Context </br>
-> Link: [Ver vídeo](https://www.youtube.com/watch?v=D_yxtCD_Vi0)
+> Link: [Ver vídeo (Ctrl + Click)](https://www.youtube.com/watch?v=D_yxtCD_Vi0)
 
 <!-- ----------------------------------------------------------------------------------- -->
-</br>
+<hr/>
 
 #### Vídeo 6
 
 > Título: Você sabe MESMO como usar o hook useEffect? </br>
-> Link: [Ver vídeo](https://www.youtube.com/watch?v=ndwM9djDRLg)
+> Link: [Ver vídeo (Ctrl + Click)](https://www.youtube.com/watch?v=ndwM9djDRLg)
 
 ##### Onde é utilizado o useEffect?
 
@@ -160,3 +159,24 @@ Toda vez que a variável **posts** for alterada, o useEffect será executado, ge
 <img src='./Images/Print_03.png' width='300px'><br/>
 
 Exemplo da utilização de **services**. Neste caso, a chamada da API é formalizada dentro do arquivo *Posts.service.ts*, com o método **getPosts()**. Posteriormente ela é chamada na função **fetchPosts()** e executada pelo useEffect toda vez que o componente é renderizado.
+
+<!-- ----------------------------------------------------------------------------------- -->
+<hr/>
+
+#### Vídeo 7
+
+> Título: Explicando o hook useCallback ! Dicas avançadas de performance para React JS </br>
+> Link: [Ver vídeo (Ctrl + Click)](https://www.youtube.com/watch?v=MPoVCO5na3Q)
+
+##### Quando usar o useCallback?
+
+- Recomenda-se utilizar esse hook apenas para códigos compostos de muita complexidade
+
+##### Transcrição do vídeo
+
+<img src='./Images/Video_7_01.png' width='500px'><br/>
+Toda vez em que o botão for clicado, o React fará uma **nova renderização** no componente, renderizando novamente tudo aquilo que há dentro do mesmo
+
+<img src='./Images/Video_7_02.png' width='500px'><br/>
+Utilizando o useCallback, quando o componente for montado no primeiro render, o **React irá atribuir a função na memória**. 
+Passando o **array de dependências vazio**, o React entende que ao fazer uma nova renderização, **não se deve fazer uma nova atribuição de memória**. Ao passar um **valor nas dependências do hook**, o React entende que a **função deve ser executada novamente** de acordo com a alteração do parâmetro passado.
