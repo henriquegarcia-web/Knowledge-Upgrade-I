@@ -123,3 +123,11 @@ Os hooks permitem centralizar e compartilhar a lógica de estados
 > Título: Como usar React Context (com Hooks) | Guilherme Rodz </br>
 > Link: [Ver vídeo](https://www.youtube.com/watch?v=FsCBw9X9U84)
 
+<!-- ----------------------------------------------------------------------------------- -->
+</br>
+
+#### Vídeo 5
+
+> Título: Gerenciando estados globais com React Context </br>
+> Link: [Ver vídeo](https://www.youtube.com/watch?v=D_yxtCD_Vi0)
+
