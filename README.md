@@ -14,7 +14,7 @@ Essa iniciativa tem como finalidade principal: atingir um avanço significativo 
 
 ### Proposta
 
-Em um board no Trello, compuz um acervo de links baseados em catagorias (como segue as pastas do repositório). Usando apenas o YouTube, a proposta é assistir a série de videoaulas e projetos definidos, realizando anotações e desenvolvedo os projetos. 
+Em um board no Trello, compus um acervo de links baseados em catagorias (como segue as pastas do repositório). Usando apenas o YouTube, a proposta é assistir a série de videoaulas e projetos definidos, realizando anotações e desenvolvendo os projetos. 
 
 ##
 
@@ -29,17 +29,17 @@ Class Components vs Functional Components in React - **[ 15min ]** - <a href="ht
 
 #### 2. React - Hooks
 
-**[ Em progresso ]** - Compilação de 9 vídeos sobre Hooks - **[ 2h 10min ]** - <a href="https://www.youtube.com/watch?v=iO60sUu7KIA&list=PL-wbozzhFnqrJPUFxUlp5gpLfjxWvtNvu" target="_blank">Ver vídeo</a></br>
+**[ Concluído ]** - Compilação de 9 vídeos sobre Hooks - **[ 2h 10min ]** - <a href="https://www.youtube.com/watch?v=iO60sUu7KIA&list=PL-wbozzhFnqrJPUFxUlp5gpLfjxWvtNvu" target="_blank">Ver vídeo</a></br>
 React Context API para INICIANTES - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=H6bCSzxxiNc" target="_blank">Ver vídeo</a></br>
-**[ Em espera ]** - Como usar React Context (com Hooks) - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=FsCBw9X9U84" target="_blank">Ver vídeo</a></br>
-**[ Em espera ]** - Gerenciando estados globais com React Context - **[ 30min ]** - <a href="https://www.youtube.com/watch?v=D_yxtCD_Vi0" target="_blank">Ver vídeo</a></br>
+**[ Concluído ]** - Como usar React Context (com Hooks) - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=FsCBw9X9U84" target="_blank">Ver vídeo</a></br>
+**[ Concluído ]** - Gerenciando estados globais com React Context - **[ 30min ]** - <a href="https://www.youtube.com/watch?v=D_yxtCD_Vi0" target="_blank">Ver vídeo</a></br>
 Como fazer Hooks Personalizados - **[ 16min ]** - <a href="https://www.youtube.com/watch?v=2cTAR3EkvQ8" target="_blank">Ver vídeo</a></br>
 Criando Formulários no ReactJS - React Hook Form - **[ 15min ]** - <a href="https://www.youtube.com/watch?v=1bluATWw4S4" target="_blank">Ver vídeo</a></br>
 5 Custom React Hooks You Need In Every Project - **[ 10min ]** - <a href="https://www.youtube.com/watch?v=0c6znExIqRw" target="_blank">Ver vídeo</a></br>
 **[ Concluído ]** - React Hooks Course - All React Hooks Explained - **[ 1h 30min ]** - <a href="https://www.youtube.com/watch?v=LlvBzyy-558&t" target="_blank">Ver vídeo</a></br>
 **[ Concluído ]** - Don't use Hooks in REACT without knowing this... - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=NZEUDJvpQMM" target="_blank">Ver vídeo</a></br>
-**[ Em espera ]** - Você sabe MESMO como usar o hook useEffect? - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=ndwM9djDRLg" target="_blank">Ver vídeo</a></br>
-**[ Em espera ]** - Dicas avançadas de performance para React JS (useCallback) - **[ 10min ]** - <a href="https://www.youtube.com/watch?v=MPoVCO5na3Q" target="_blank">Ver vídeo</a></br>
+**[ Concluído ]** - Você sabe MESMO como usar o hook useEffect? - **[ 20min ]** - <a href="https://www.youtube.com/watch?v=ndwM9djDRLg" target="_blank">Ver vídeo</a></br>
+**[ Concluído ]** - Dicas avançadas de performance para React JS (useCallback) - **[ 10min ]** - <a href="https://www.youtube.com/watch?v=MPoVCO5na3Q" target="_blank">Ver vídeo</a></br>
 
 #### 3. React - Typescript
 
@@ -122,7 +122,7 @@ Let's build Hulu 2.0 with REACT.JS! (Next.js, Tailwind CSS, Responsive) - **[ 2h
 #### 12. React - Tips e Dicas
 
 React PRO Tips & Techniques you should Know - **[ 40min ]** - <a href="https://www.youtube.com/watch?v=l6kB_z5SHPs" target="_blank">Ver vídeo</a></br>
-10 Awesome React Pro Tips - Know 'em all! - **[ 6min ]** - <a href="https://www.youtube.com/watch?v=YwKzB8agCTQ" target="_blank">Ver vídeo</a></br>
+**[ Concluído ]** - 10 Awesome React Pro Tips - Know 'em all! - **[ 6min ]** - <a href="https://www.youtube.com/watch?v=YwKzB8agCTQ" target="_blank">Ver vídeo</a></br>
 
 #### 13. React - Roadmap
 
