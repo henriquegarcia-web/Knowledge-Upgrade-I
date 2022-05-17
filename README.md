@@ -3,8 +3,8 @@
 
 </br>
 
-> Data de início: 17 de fevereiro de 2022 </br>
-> Data de término: Em progresso
+> **Data de início:** 17 de fevereiro de 2022 </br>
+> **Data de término:** 20 de abril de 2022
 
 ##
 
